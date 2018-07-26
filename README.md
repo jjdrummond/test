@@ -3,7 +3,11 @@ This is a test.
 This is only a test.
 
 
-FI_WRITE
+Hello
+
+_Hello_
+
+__Hello__
 
 
 FI_MR_LOCAL
